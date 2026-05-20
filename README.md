@@ -14,7 +14,7 @@
 [![Groq](https://img.shields.io/badge/Groq-LLaMA_3.3_70B-FF6B35?style=for-the-badge)](https://groq.com/)
 [![Netlify](https://img.shields.io/badge/Deployed-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://netlify.com/)
 
-[🌐 Live Demo](#) · [🐛 Report Bug](../../issues) · [💡 Request Feature](../../issues)
+ [🐛 Report Bug](../../issues) · [💡 Request Feature](../../issues)
 
 </div>
 
